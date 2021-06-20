@@ -1,6 +1,6 @@
 # Codeforces Problem Recommender
 ```
-_**Coded By: Pratham Arora, Rishabh Srivastava, V. Khagesh Kumar, Param Kothari & Rohit Kumar**_
+Coded By: Pratham Arora, Rishabh Srivastava, V. Khagesh Kumar, Param Kothari & Rohit Kumar
 ```
 <a href = "https://codeforces.com/">Codeforces</a> is a very popular web platform that hosts competitive programming contests. It also has a multitude of problems of varying difficulty levels for all types of programmers, be it a newbie or an expert. 
 
