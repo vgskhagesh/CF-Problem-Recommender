@@ -1,1 +1,3 @@
-Coded By: Rishabh Srivastava, V. Khagesh Kumar, Pratham Arora, Param Kothari & Rohit Kumar
+Coded By: Pratham Arora, Rishabh Srivastava, V. Khagesh Kumar, Param Kothari & Rohit Kumar
+
+
